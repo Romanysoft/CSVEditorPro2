@@ -32,16 +32,12 @@
         },
         "UserReviews": {
             "SectionName": "Wonderful things people are saying about CSVEditorPro2",
-            "list": [
-
-            ]
+            "list": []
         }
     },
     "FeaturePage": {},
     "DocumentsPage": {
-        "list": [
-
-        ]
+        "list": []
     },
     "VersionPage": {
         "labelVersion": "Version",
