@@ -1,0 +1,81 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "A simple and powerful editing CSV's Mac App.",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
+        "BtnBuy": "Buy",
+        "BtnBuyDescription": "$39.99 | Official free upgrade.",
+        "Screens": [
+            "{{images/screens/common/c1.png}}",
+            "{{images/screens/common/c2.png}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Supports multiple document mode.",
+                "Supports CSV add rows, delete rows, delete columns, increasing the column, sorting, calculation and other features ",
+                "Support built-in export share format. Such as: sql, xml, json, tab csv ",
+                "Custom export formats supported"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about CSVEditorPro2",
+            "list": [
+
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "{{4.18.0}}",
+                "updateDate": "{{2016.07.07}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{CSVEditorPro2-v4.18.dmg}}",
+                        "size": "{{2.1MB}}",
+                        "downURL": [
+                            "{{http://www.filefactory.com/file/741atb4yb5t1/CSVEditorPro2-v4.18.dmg}}",
+                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSVEditorPro2/4.18/CSVEditorPro2-v4.18.dmg}}"
+                        ]
+                    }
+                ]
+            }, 
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [
+            {
+                "name": "{{CSVEditorPro2 for Mac}}",
+                "logo": "{{images/buy/buy.png}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/add/55399-46}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
