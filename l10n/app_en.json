@@ -50,10 +50,7 @@
                         "osUrl": "{{images/download/osx.png}}",
                         "name": "{{CSVEditorPro2-v4.18.dmg}}",
                         "size": "{{2.1MB}}",
-                        "downURL": [
-                            "{{http://www.filefactory.com/file/741atb4yb5t1/CSVEditorPro2-v4.18.dmg}}",
-                            "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/CSVEditorPro2/4.18/CSVEditorPro2-v4.18.dmg}}"
-                        ]
+                        "downURL": "{{http://www.filefactory.com/file/741atb4yb5t1/CSVEditorPro2-v4.18.dmg}}"
                     }
                 ]
             }
